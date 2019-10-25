@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="48059" started-at="2019-10-25T11:33:23 IST" finished-at="2019-10-25T11:34:11 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="48059" started-at="2019-10-25T11:33:23 IST" finished-at="2019-10-25T11:34:11 IST">
+      <class name="com.snap.testcases.Login_TC">
+        <test-method status="PASS" signature="browserLaunch()[pri:0, instance:com.snap.testcases.Login_TC@4f51b3e0]" name="browserLaunch" is-config="true" duration-ms="14076" started-at="2019-10-25T11:33:23 IST" finished-at="2019-10-25T11:33:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method status="PASS" signature="verifylogin()[pri:0, instance:com.snap.testcases.Login_TC@4f51b3e0]" name="verifylogin" duration-ms="32711" started-at="2019-10-25T11:33:37 IST" finished-at="2019-10-25T11:34:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifylogin -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.snap.testcases.Login_TC@4f51b3e0]" name="teardown" is-config="true" duration-ms="1228" started-at="2019-10-25T11:34:10 IST" finished-at="2019-10-25T11:34:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.snap.testcases.Login_TC -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
